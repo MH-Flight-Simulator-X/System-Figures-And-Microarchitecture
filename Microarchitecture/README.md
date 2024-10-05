@@ -1,0 +1,1 @@
+This directory includes figures and drawings of the different aspects of the FPGA microarchitecture. This includes drawings of individual modules and units, as well as larget systems.
