@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
   <diagram name="Page-1" id="dK4UOKXj8se_VW2nIS-f">
-    <mxGraphModel dx="1761" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,14 +109,14 @@
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-182" value="JTAG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Yh6D1ucSm9buxZHoczs-181">
           <mxGeometry x="-0.6074" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-1" value="FPGA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-29" value="FPGA LEDs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-75" value="" style="endArrow=none;html=1;rounded=0;targetPerimeterSpacing=63;endSize=17;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -259,18 +259,18 @@
           <mxGeometry x="70" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-157" value="12 bit colour signal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="0.0034301773275799974" y="179.53326973120852" as="geometry" />
+          <mxGeometry x="-14.99656982267242" y="184.7632697312085" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-159" value="VGA DAC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="75.23" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-160" value="VGA Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-50" width="195" height="60" as="geometry" />
+          <mxGeometry x="-155" y="-44.77" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.641;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Yh6D1ucSm9buxZHoczs-159" target="7Yh6D1ucSm9buxZHoczs-160">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25" y="20" as="targetPoint" />
-            <mxPoint x="-5" y="60" as="sourcePoint" />
+            <mxPoint x="-40" y="25.23" as="targetPoint" />
+            <mxPoint x="-20" y="65.23" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-162" value="Analog RGB signal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="7Yh6D1ucSm9buxZHoczs-161">
@@ -301,7 +301,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-179" value="FPGA Debug" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="45" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.504;entryY=-0.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Yh6D1ucSm9buxZHoczs-1" target="7Yh6D1ucSm9buxZHoczs-29">
           <mxGeometry relative="1" as="geometry" />
@@ -309,23 +309,25 @@
         <mxCell id="7Yh6D1ucSm9buxZHoczs-183" value="MCU GPIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="870" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7Yh6D1ucSm9buxZHoczs-189" value="Key" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="-50" width="210" height="330" as="geometry" />
+        <mxCell id="7Yh6D1ucSm9buxZHoczs-189" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;u&gt;Legend&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="400" width="210" height="200" as="geometry">
+            <mxRectangle x="-210" y="380" width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-193" value="IO Component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=0;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
-          <mxGeometry y="26" width="210" height="64" as="geometry" />
+          <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-194" value="Circuit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rotation=0;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
-          <mxGeometry y="90" width="210" height="60" as="geometry" />
+          <mxGeometry y="80" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Yh6D1ucSm9buxZHoczs-195" value="Logic ICs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
-          <mxGeometry y="150" width="210" height="60" as="geometry" />
+        <mxCell id="7Yh6D1ucSm9buxZHoczs-195" value="Logic IC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
+          <mxGeometry y="110" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Yh6D1ucSm9buxZHoczs-196" value="Programable ICs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
-          <mxGeometry y="210" width="210" height="60" as="geometry" />
+        <mxCell id="7Yh6D1ucSm9buxZHoczs-196" value="Programable IC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
+          <mxGeometry y="140" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Yh6D1ucSm9buxZHoczs-198" value="Peripheral component" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7Yh6D1ucSm9buxZHoczs-189">
-          <mxGeometry y="270" width="210" height="60" as="geometry" />
+          <mxGeometry y="170" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
